@@ -1,0 +1,4 @@
+- pipeline: dnludwpkjv
+  refs:
+  - refs/heads/master
+  on: CLICK
